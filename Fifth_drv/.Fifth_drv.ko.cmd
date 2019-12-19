@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/personal/Fifth_drv/Fifth_drv.ko := arm-linux-ld -EL  -r -o /mnt/hgfs/personal/Fifth_drv/Fifth_drv.ko /mnt/hgfs/personal/Fifth_drv/Fifth_drv.o /mnt/hgfs/personal/Fifth_drv/Fifth_drv.mod.o

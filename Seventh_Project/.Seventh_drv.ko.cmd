@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/personal/Seventh_Project/Seventh_drv.ko := arm-linux-ld -EL  -r -o /mnt/hgfs/personal/Seventh_Project/Seventh_drv.ko /mnt/hgfs/personal/Seventh_Project/Seventh_drv.o /mnt/hgfs/personal/Seventh_Project/Seventh_drv.mod.o
